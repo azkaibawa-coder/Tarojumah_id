@@ -1,0 +1,7 @@
+{
+  "name": "Tarojumah.id App",
+  "description": "Aplikasi muslim komprehensif dengan fitur baca kitab, video kajian, artikel, dan jadwal sholat.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
